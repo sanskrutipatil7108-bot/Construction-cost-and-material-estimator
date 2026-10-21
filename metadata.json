@@ -1,0 +1,6 @@
+{
+  "name": "ConstructX — Construction Cost Estimator",
+  "description": "Professional construction material quantity and cost estimation platform with interactive analytics, project explorer, and data insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
